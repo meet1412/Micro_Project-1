@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Bugatti",
+        "price": 1054541320.99,
+        "image": "images/buga.png"
+    },
+    {
+        "id": 2,
+        "name": "Lamborgini",
+        "price": 15548684.49,
+        "image": "images/lambo.png"
+    },
+    {
+        "id": 3,
+        "name": "Toyota Camry",
+        "price": 78000.99,
+        "image": "images/tc.png"
+    },
+    {
+        "id": 4,
+        "name": "Honda Civic",
+        "price": 12784.75,
+        "image": "images/hc.png"
+    },
+    {
+        "id": 5,
+        "name": "Highlander",
+        "price": 94515.25,
+        "image": "images/hl.png"
+    },
+    {
+        "id": 6,
+        "name": "Ferrari",
+        "price": 1845124.50,
+        "image": "images/fer.png"
+    }
+]
